@@ -1,0 +1,2 @@
+{"body":"    {\r\n    \"username\": \"john_smith\",\r\n    \"email\": \"johnsmith@example.com\",\r\n    \"password\": \"Password123!\"\r\n    },","expose":true,"level":"error","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"body":"    {\r\n    \"username\": \"john_smith\",\r\n    \"email\": \"johnsmith@example.com\",\r\n    \"password\": \"Password123!\"\r\n    },","expose":true,"level":"error","status":400,"statusCode":400,"type":"entity.parse.failed"}
