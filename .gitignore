@@ -10,19 +10,21 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.env.docker
 
 # Logs
-logs
+logs/
 *.log
 
 # Runtime data
-pids
+pids/
 *.pid
 *.seed
 *.pid.lock
 
 # Coverage directory used by tools like istanbul
 coverage/
+.nyc_output
 
 # Dependency directories
 jspm_packages/
@@ -53,3 +55,6 @@ jspm_packages/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Docker
+.dockerignore
